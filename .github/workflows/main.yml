@@ -16,11 +16,9 @@ jobs:
         with:
           plugin_activity: yes
           plugin_languages: yes
-          plugin_reactions: yes
           plugin_traffic: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_achievements: yes
-          # plugin_achievements_limit: 10
+          # plugin_achievements_limit: 5
           config_timezone: Europe/Budapest
           token: ${{ secrets.METRICS_TOKEN }}
+          user: Vitorlas-Devs
