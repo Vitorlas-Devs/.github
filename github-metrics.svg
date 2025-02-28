@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="107.76551336680802" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="107.76551336680802" y="0" width="103.8662017940832" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="211.63171516089122" y="0" width="99.94598747900947" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="311.5777026399007" y="0" width="74.00330891237579" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="385.5810115522765" y="0" width="32.06860726184402" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="417.6496188141206" y="0" width="17.940728745608254" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="435.59034755972885" y="0" width="12.961600505631555" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.5519480653604" y="0" width="11.448051934639686" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="106.31066329103606" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="106.31066329103606" y="0" width="102.46399299064231" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="208.77465628167838" y="0" width="98.59670213795599" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="307.37135841963436" y="0" width="73.00425349831134" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="380.37561191794566" y="0" width="37.8457431905822" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="418.22135510852786" y="0" width="17.698526302920396" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="435.9198814114482" y="0" width="12.786617017049652" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.70649842849787" y="0" width="11.29350157150207" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -199,16 +199,16 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
+                                        <div class="user">Rettend</div>
                                         pushed 1 commit in
-                                        <span class="repo">Vitorlas-Devs/.github</span>
+                                        <span class="repo">Vitorlas-Devs/notes</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0948af3</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#d6e81f3</div>
+                                        <div class="message">sdf</div>
                                     </div>
                                 </div>
                             </section>
@@ -228,29 +228,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a0f0610</div>
-                                        <div class="message">formet</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">Rettend</div>
-                                        pushed 2 commits in
-                                        <span class="repo">Vitorlas-Devs/notes</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7799555</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/Vitorlas-Devs/notes</div>
+                                        <div class="sha">#18b36ab</div>
+                                        <div class="message">uv</div>
                                     </div>
                                 </div>
                             </section>
@@ -270,8 +249,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#56468ae</div>
-                                        <div class="message">XD?</div>
+                                        <div class="sha">#835362c</div>
+                                        <div class="message">jkhjghf</div>
                                     </div>
                                 </div>
                             </section>
@@ -283,16 +262,37 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
+                                        <div class="user">Rettend</div>
                                         pushed 1 commit in
-                                        <span class="repo">Vitorlas-Devs/.github</span>
+                                        <span class="repo">Vitorlas-Devs/notes</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7fdb9b4</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#00fabcf</div>
+                                        <div class="message">PROCESS</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">Rettend</div>
+                                        pushed 1 commit in
+                                        <span class="repo">Vitorlas-Devs/notes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1e46258</div>
+                                        <div class="message">sd</div>
                                     </div>
                                 </div>
                             </section>
@@ -351,7 +351,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.334017796030122 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.9705681040383283 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -412,7 +412,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developers
-                                    <span class="gh">ranked 5.63m out of 157m users</span>
+                                    <span class="gh">ranked 5.64m out of 157m users</span>
                                 </div>
                                 <div class="text">Published 13 public repositories</div>
                             </div>
@@ -491,7 +491,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 3.72m out of 239m repositories</span>
+                                    <span class="gh">ranked 3.72m out of 240m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -576,7 +576,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 25 Feb 2025, 02:10:58 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2025, 02:10:57 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
